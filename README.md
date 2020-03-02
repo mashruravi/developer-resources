@@ -10,6 +10,11 @@ Resources collected while going through roadmaps on https://roadmap.sh/
    
  - NodeJS
    - [Nodeschool.io - Workshoppers](https://nodeschool.io/#workshoppers)
+   
+### Understand different OS Concepts
+
+ - Startup Management (initd)
+   - Linux: The Complete Reference, Sixth Edition (Richard Petersen) - Chapter 21: Managing Services
 
 ## Frontend
 (coming soon)
