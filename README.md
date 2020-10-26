@@ -7,6 +7,7 @@ Resources collected while going through roadmaps on https://roadmap.sh/
 
  - Python
    - [Kaggle Learn - Python](https://www.kaggle.com/learn/python)
+   - [LearnPython.org interactive Python tutorial](https://www.learnpython.org/)
    
  - NodeJS
    - [Nodeschool.io - Workshoppers](https://nodeschool.io/#workshoppers)
